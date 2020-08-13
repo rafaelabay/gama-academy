@@ -1,7 +1,13 @@
+
+/* FONTE MARVEL */
+@import url('https://fonts.googleapis.com/css2?family=Marvel&display=swap');
+
+
 :root {
-  --color-green: #84D758;
-  --color-green-dark: #66CC45;
-  --color-purple: #7B5EDD;
+  --color-purple: #5C49C6;
+  --color-purple-dark: #453AA4; 
+  --color-background: #EBEAFD;
+  --color-orange: #EB633C;
 }
 
 * {

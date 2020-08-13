@@ -1,0 +1,17 @@
+header {
+  width: 100%;
+  height: 20rem;
+  background-color: #5C49C6;
+}
+
+.infinity-stones {
+  height: 2rem;
+}
+
+.top-bar-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  margin-right: 1rem;
+}
