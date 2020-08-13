@@ -1,0 +1,22 @@
+:root {
+  --color-green: #84D758;
+  --color-green-dark: #66CC45;
+  --color-purple: #7B5EDD;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+    width: 90vw;
+    max-width: 700px;
+}
+
+@media (min-width: 700px) {
+  #page-landing {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,113 @@
+
+
+/* #id mais forte */
+/* .class */
+
+/* QUAIS ELEMENTOS SE SOBRESCREVEM ID Vs Class */
+
+
+#page-landing {
+  font-family: 'Gilroy';
+  background: var(--color-green);
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.landing-content {
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  /* Margin + Padding */
+}
+
+.landing-content h1 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 0.5rem;
+}
+
+.landing-content h2 {
+  display: flex;
+  text-align: center;
+
+  color: #4B9633;
+
+}
+
+img.punch {
+  width: 12rem;
+
+  margin: 0.8rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+button {
+  width: 10rem;
+  height: 6rem;
+
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+button.team {
+  background-color: var(--color-green-dark);
+
+  margin-right: 10px;
+  transition: 0.32s;
+
+}
+
+button.team:hover {
+  background-color: #61C142;
+}
+
+.team a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: white;
+  font-weight: bold;
+}
+
+button.info {
+  background-color: var(--color-purple);
+}
+
+.info a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: white;
+  font-weight: bold;
+}
+
+.buttons-container {
+  width: 40rem;
+
+  display: flex;
+  justify-content: center;
+}
+
+
+.develop-by {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+  margin-top: 3rem;
+}
+
+span p {
+  color: white;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+span img {
+  width: 1.5rem;
+}
