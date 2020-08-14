@@ -81,6 +81,7 @@ button.team:hover {
   font-size: 1rem;
   color: white;
   font-weight: bold;
+  padding: 40px;
 }
 
 button.info {
@@ -97,6 +98,7 @@ button.info:hover {
   font-size: 1rem;
   color: white;
   font-weight: bold;
+  padding: 40px;
 }
 
 .buttons-container {

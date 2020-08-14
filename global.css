@@ -18,10 +18,10 @@
 
 .container {
     width: 90vw;
-    max-width: 700px;
+    max-width: 500px;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 500px) {
   #page-landing {
     max-width: 100%;
   }
