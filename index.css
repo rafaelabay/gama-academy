@@ -28,6 +28,7 @@
 
 .landing-content h1 {
   display: flex;
+  margin-top: 1rem;
   justify-content: center;
   padding-bottom: 0.5rem;
   font-family: 'Raleway';
