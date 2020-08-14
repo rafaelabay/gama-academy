@@ -104,6 +104,10 @@ body {
       align-items: center;
   }
 
+  .card {
+    max-width: 40rem;
+  }
+
   #page-content {
     display: flex;
     justify-content: center;

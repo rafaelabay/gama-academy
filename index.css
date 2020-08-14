@@ -159,6 +159,10 @@ span img {
   }
 
   .landing-content h2 {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+
     width: 22rem;
     margin-top: 1rem;
     font-size: 0.9rem;
