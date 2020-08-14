@@ -140,6 +140,8 @@ span img {
   .landing-content h2 {
     font-size: 0.9rem;
   }
-
+  .develop-by {
+    max-width: 5rem;
+  }
 
 }
