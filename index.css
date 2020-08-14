@@ -128,3 +128,9 @@ span p {
 span img {
   width: 1.5rem;
 }
+
+@media (min-width: 700px) {
+  img.infinity {
+    width: 8rem;
+  }
+}
