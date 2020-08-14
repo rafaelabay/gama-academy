@@ -135,12 +135,17 @@ span img {
   }
   .buttons-container {
     max-width: 25rem;
+    margin-bottom: 3rem;
   }
 
   .landing-content h2 {
+    margin-top: 1.5rem;
     font-size: 0.9rem;
   }
   .develop-by {
+    display: flex;
+   flex-direction: row;
+    margin-top: 2rem;
     max-width: 5rem;
   }
 
