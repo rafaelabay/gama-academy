@@ -159,9 +159,15 @@ span img {
   }
 
   .landing-content h2 {
-    margin-top: 0.5rem;
+    width: 22rem;
+    margin-top: 1rem;
     font-size: 0.9rem;
   }
+
+  .mobile-txt-photo {
+    max-width: 30rem;
+  }
+
   .develop-by {
     display: flex;
    flex-direction: row;
@@ -172,7 +178,10 @@ span img {
   }
 
   .mobile-text {
-    margin-top: 1rem;
+    max-width: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
   }
 
   .develop-by img {
