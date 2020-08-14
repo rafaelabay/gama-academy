@@ -129,8 +129,17 @@ span img {
   width: 1.5rem;
 }
 
-@media (min-width: 700px) {
+@media (max-width: 700px) {
   img.infinity {
     width: 8rem;
   }
+  .buttons-container {
+    max-width: 25rem;
+  }
+
+  .landing-content h2 {
+    font-size: 0.9rem;
+  }
+
+
 }
