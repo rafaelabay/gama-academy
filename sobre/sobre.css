@@ -53,10 +53,18 @@ body {
   background-color: #d2ceff;
 }
 
+#photo {
+  margin-bottom: 20px;
+}
+
 #photo img {
   width: 500px;
   height: auto;
   margin: 0 auto;
+}
+
+.card.with-photo {
+  padding: 0 20px 20px 20px;
 }
 
 .card {
