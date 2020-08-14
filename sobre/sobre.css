@@ -34,7 +34,7 @@ header {
 
 .page-header strong {
   font-size: 1.8rem;
-  font-family: 'Gilroy';
+  font-family: 'Raleway';
   color: var(--color-orange);
 
   margin-left: 4rem;
@@ -64,8 +64,8 @@ body {
 }
 
 .card.with-photo {
+  margin: 10px;
   padding: 0 20px 20px 20px;
-  height: 85vh;
 }
 
 .card.with-photo a {
@@ -82,7 +82,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Gilroy';
+  font-family: 'Raleway';
   background-color: white;
   padding: 20px;
   border-radius: 8px;
@@ -116,7 +116,4 @@ body {
     justify-content: center;
   }
 
-  .card.with-photo {
-    height: 84vh;
-  }
 }

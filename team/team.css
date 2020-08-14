@@ -54,7 +54,7 @@ header {
 
 .page-header strong {
   font-size: 1.8rem;
-  font-family: 'Gilroy';
+  font-family: 'Raleway';
   color: var(--color-orange);
 
   margin-left: 4rem;
@@ -81,7 +81,7 @@ body {
   background-color: white;
   margin: 2rem;
   border-radius: 8px;
-  font-family: 'Gilroy';
+  font-family: 'Raleway';
   padding: 15px;
 }
 
